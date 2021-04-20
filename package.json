@@ -1,0 +1,24 @@
+{
+  "name": "adobe-aem-api",
+  "version": "1.0.0",
+  "description": "Bff project to query adobe AEM assets",
+  "main": "index.js",
+  "scripts": {
+    "start:local": "nodemon -e js,json,graphql -r dotenv/config ./api/index.js",
+    "start": "node ./api/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:mock": "npx json-server --watch api/data/dados.json"
+  },
+  "author": "Junior Denir",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource-rest": "^0.11.0",
+    "apollo-server": "^2.22.2",
+    "graphql": "^15.5.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "json-server": "^0.16.3",
+    "nodemon": "^2.0.7"
+  }
+}

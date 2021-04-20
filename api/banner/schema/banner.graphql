@@ -1,0 +1,58 @@
+const {  gql } = require('apollo-server');
+
+const bannerSchema = gql `
+
+type Banner {
+    title: String!
+    items: Items!  
+}
+
+type Items {
+    root: Root!
+}
+
+type Root {
+    items: rootItems! 
+}
+
+type rootItems {
+    responsivegrid: Responsivegrid!
+}
+
+type Responsivegrid {
+    items: responsiveGridItems!
+}
+
+type responsiveGridItems {
+    contentfragment: Contentfragment
+    contentfragment_639849901: Contentfragment
+    contentfragment_1677200666: Contentfragment
+}
+
+type Contentfragment {
+    title: String!
+    elements: Elements!
+    description: String
+}
+
+type Elements {
+    titulo: genericElement!
+    descricao: genericElement!
+    corText: genericElement
+    cta: genericElement
+    ctaLink: genericElement
+    corCTA: genericElement
+    corTXTCTA: genericElement
+    imgDesktop: genericElement
+    imgMobile: genericElement
+}
+
+type genericElement {
+    value: String!
+}
+
+type Query {
+    banners: Banner!
+}
+`
+module.exports = bannerSchema;

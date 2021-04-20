@@ -1,0 +1,677 @@
+{
+  "banners": {
+    "id": "page-7207bcbd3f",
+    "designPath": "/libs/settings/wcm/designs/default",
+    "title": "Banner mock Home",
+    "lastModifiedDate": 1602683247622,
+    "templateName": "apis-json",
+    "cssClassNames": "page basicpage",
+    "language": "pt-BR",
+    ":items": {
+      "root": {
+        "columnClassNames": {
+          "responsivegrid": "aem-GridColumn aem-GridColumn--default--12"
+        },
+        "allowedComponents": {
+          "applicable": false,
+          "components": [
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/mock-mock/components/content/button",
+              "title": "Botão"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/mock-mock/components/content/consultation-details",
+              "title": "Comparativo de Produtos"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/mock-mock/components/content/credit-calculator",
+              "title": "Calculadora de Pacotes"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/mock-mock/components/content/featured-bar",
+              "title": "Barra Destaque"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/mock-mock/components/content/hero",
+              "title": "Hero"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/mock-mock/components/content/link",
+              "title": "Link"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/mock-mock/components/content/list-of-benefits",
+              "title": "Lista de Boxes"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/mock-mock/components/content/promotional-carousel",
+              "title": "Carrossel Promocional"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/mock-mock/components/content/richtext",
+              "title": "Rich Text"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/mock-mock/components/content/step-by-step",
+              "title": "Passo a Passo"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/mock-mock/components/content/support-content",
+              "title": "Suporte Conteúdo"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/mock-mock/components/content/text",
+              "title": "Texto"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/mock-mock/components/content/title",
+              "title": "Título"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/mock-mock/components/content/webcallback",
+              "title": "Web CallBack"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/accordion/v1/accordion",
+              "title": "Accordion (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/breadcrumb/v2/breadcrumb",
+              "title": "Breadcrumb (v2)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/breadcrumb/v1/breadcrumb",
+              "title": "Breadcrumb (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/button/v1/button",
+              "title": "Button (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/carousel/v1/carousel",
+              "title": "Carousel (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/container/v1/container",
+              "title": "Container (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/contentfragment/v1/contentfragment",
+              "title": "Content Fragment (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/contentfragmentlist/v1/contentfragmentlist",
+              "title": "Content Fragment List (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/download/v1/download",
+              "title": "Download (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/embed/v1/embed",
+              "title": "Embed (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/experiencefragment/v1/experiencefragment",
+              "title": "Experience Fragment (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/image/v2/image",
+              "title": "Image (v2)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/image/v1/image",
+              "title": "Image (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/languagenavigation/v1/languagenavigation",
+              "title": "Language Navigation (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/list/v1/list",
+              "title": "List (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/list/v2/list",
+              "title": "List (v2)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/navigation/v1/navigation",
+              "title": "Navigation (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/page/v1/page",
+              "title": "Page (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/page/v2/page",
+              "title": "Page (v2)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/pdfviewer/v1/pdfviewer",
+              "title": "PDF Viewer (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/progressbar/v1/progressbar",
+              "title": "Progress Bar (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/search/v1/search",
+              "title": "Quick Search (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/separator/v1/separator",
+              "title": "Separator (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/sharing/v1/sharing",
+              "title": "Social Media Sharing (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/tabs/v1/tabs",
+              "title": "Tabs (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/teaser/v1/teaser",
+              "title": "Teaser (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/text/v2/text",
+              "title": "Text (v2)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/text/v1/text",
+              "title": "Text (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/title/v1/title",
+              "title": "Title (v1)"
+            },
+            {
+              "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/core/wcm/components/title/v2/title",
+              "title": "Title (v2)"
+            }
+          ]
+        },
+        "gridClassNames": "aem-Grid aem-Grid--12 aem-Grid--default--12",
+        "columnCount": 12,
+        ":items": {
+          "responsivegrid": {
+            "columnClassNames": {
+              "contentfragment": "aem-GridColumn aem-GridColumn--default--12",
+              "contentfragment_639849901": "aem-GridColumn aem-GridColumn--default--12",
+              "contentfragment_1677200666": "aem-GridColumn aem-GridColumn--default--12"
+            },
+            "allowedComponents": {
+              "applicable": false,
+              "components": [
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/mock-mock/components/content/button",
+                  "title": "Botão"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/mock-mock/components/content/consultation-details",
+                  "title": "Comparativo de Produtos"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/mock-mock/components/content/credit-calculator",
+                  "title": "Calculadora de Pacotes"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/mock-mock/components/content/featured-bar",
+                  "title": "Barra Destaque"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/mock-mock/components/content/hero",
+                  "title": "Hero"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/mock-mock/components/content/link",
+                  "title": "Link"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/mock-mock/components/content/list-of-benefits",
+                  "title": "Lista de Boxes"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/mock-mock/components/content/promotional-carousel",
+                  "title": "Carrossel Promocional"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/mock-mock/components/content/richtext",
+                  "title": "Rich Text"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/mock-mock/components/content/step-by-step",
+                  "title": "Passo a Passo"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/mock-mock/components/content/support-content",
+                  "title": "Suporte Conteúdo"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/mock-mock/components/content/text",
+                  "title": "Texto"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/mock-mock/components/content/title",
+                  "title": "Título"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/mock-mock/components/content/webcallback",
+                  "title": "Web CallBack"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/accordion/v1/accordion",
+                  "title": "Accordion (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/breadcrumb/v2/breadcrumb",
+                  "title": "Breadcrumb (v2)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/breadcrumb/v1/breadcrumb",
+                  "title": "Breadcrumb (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/button/v1/button",
+                  "title": "Button (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/carousel/v1/carousel",
+                  "title": "Carousel (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/container/v1/container",
+                  "title": "Container (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/contentfragment/v1/contentfragment",
+                  "title": "Content Fragment (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/contentfragmentlist/v1/contentfragmentlist",
+                  "title": "Content Fragment List (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/download/v1/download",
+                  "title": "Download (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/embed/v1/embed",
+                  "title": "Embed (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/experiencefragment/v1/experiencefragment",
+                  "title": "Experience Fragment (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/image/v2/image",
+                  "title": "Image (v2)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/image/v1/image",
+                  "title": "Image (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/languagenavigation/v1/languagenavigation",
+                  "title": "Language Navigation (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/list/v1/list",
+                  "title": "List (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/list/v2/list",
+                  "title": "List (v2)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/navigation/v1/navigation",
+                  "title": "Navigation (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/page/v1/page",
+                  "title": "Page (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/page/v2/page",
+                  "title": "Page (v2)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/pdfviewer/v1/pdfviewer",
+                  "title": "PDF Viewer (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/progressbar/v1/progressbar",
+                  "title": "Progress Bar (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/search/v1/search",
+                  "title": "Quick Search (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/separator/v1/separator",
+                  "title": "Separator (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/sharing/v1/sharing",
+                  "title": "Social Media Sharing (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/tabs/v1/tabs",
+                  "title": "Tabs (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/teaser/v1/teaser",
+                  "title": "Teaser (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/text/v2/text",
+                  "title": "Text (v2)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/text/v1/text",
+                  "title": "Text (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/title/v1/title",
+                  "title": "Title (v1)"
+                },
+                {
+                  "path": "/content/mock/campanhas/apis-json/banner-mock-home/jcr:content/root/responsivegrid/core/wcm/components/title/v2/title",
+                  "title": "Title (v2)"
+                }
+              ]
+            },
+            "gridClassNames": "aem-Grid aem-Grid--12 aem-Grid--default--12",
+            "columnCount": 12,
+            ":items": {
+              "contentfragment_639849901": {
+                "title": "Banner Consulta",
+                "description": "",
+                ":type": "core/wcm/components/contentfragment/v1/contentfragment",
+                "elementsOrder": [
+                  "linhaFina",
+                  "titulo",
+                  "descricao",
+                  "corText",
+                  "cta",
+                  "ctaLink",
+                  "corCTA",
+                  "corTXTCTA",
+                  "imgDesktop",
+                  "imgMobile"
+                ],
+                ":items": {},
+                ":itemsOrder": [],
+                "elements": {
+                  "linhaFina": {
+                    "title": "Linha Fina",
+                    "dataType": "string",
+                    "value": "Consultas de CNPJ e CPF",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "titulo": {
+                    "title": "Título",
+                    "dataType": "string",
+                    "value": "Consulte antes de vender e negocie com mais segurança.",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "descricao": {
+                    "title": "Descricao",
+                    "dataType": "string",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "corText": {
+                    "title": "Cor do Texto",
+                    "dataType": "string",
+                    "value": "azul",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "cta": {
+                    "title": "CTA",
+                    "dataType": "string",
+                    "value": "Proteja sua empresa",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "ctaLink": {
+                    "title": "CTA LINK",
+                    "dataType": "string",
+                    "value": "https://www.mock.com.br/cadastro-deslogado?pathLogado=consulta",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "corCTA": {
+                    "title": "Cor do CTA",
+                    "dataType": "string",
+                    "value": "rosa",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "corTXTCTA": {
+                    "title": "Cor Texto do CTA",
+                    "dataType": "string",
+                    "value": "branco",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "imgDesktop": {
+                    "title": "Imagem Desktop",
+                    "dataType": "string",
+                    "value": "/content/dam/mock-images/banner-home-mock/_banner_hero_mock_CONSULTA.jpg",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "imgMobile": {
+                    "title": "Imagem Mobile",
+                    "dataType": "string",
+                    "value": "/content/dam/mock-images/banner-home-mock/_banner_hero_mock_CONSULTA__MOBILE.jpg",
+                    ":type": "string",
+                    "multiValue": false
+                  }
+                },
+                "model": "mock-mock/models/banner-home-mock"
+              },
+              "contentfragment": {
+                "title": "Ajuda mock",
+                "description": "",
+                ":type": "core/wcm/components/contentfragment/v1/contentfragment",
+                "elementsOrder": [
+                  "linhaFina",
+                  "titulo",
+                  "descricao",
+                  "corText",
+                  "cta",
+                  "ctaLink",
+                  "corCTA",
+                  "corTXTCTA",
+                  "imgDesktop",
+                  "imgMobile"
+                ],
+                ":items": {},
+                ":itemsOrder": [],
+                "elements": {
+                  "linhaFina": {
+                    "title": "Linha Fina",
+                    "dataType": "string",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "titulo": {
+                    "title": "Título",
+                    "dataType": "string",
+                    "value": "Veja nossos conteúdos exclusivos para ajudar sua empresa.",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "descricao": {
+                    "title": "Descricao",
+                    "dataType": "string",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "corText": {
+                    "title": "Cor do Texto",
+                    "dataType": "string",
+                    "value": "rosa",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "cta": {
+                    "title": "CTA",
+                    "dataType": "string",
+                    "value": "Saiba Mais",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "ctaLink": {
+                    "title": "CTA LINK",
+                    "dataType": "string",
+                    "value": "https://mock.mockexperian.com.br/ajudamock",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "corCTA": {
+                    "title": "Cor do CTA",
+                    "dataType": "string",
+                    "value": "azul",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "corTXTCTA": {
+                    "title": "Cor Texto do CTA",
+                    "dataType": "string",
+                    "value": "branco",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "imgDesktop": {
+                    "title": "Imagem Desktop",
+                    "dataType": "string",
+                    "value": "/content/dam/mock-images/banner-home-mock/_banner_hero_mock_COVID.jpg",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "imgMobile": {
+                    "title": "Imagem Mobile",
+                    "dataType": "string",
+                    "value": "/content/dam/mock-images/banner-home-mock/_banner_hero_mock_COVID__MOBILE.jpg",
+                    ":type": "string",
+                    "multiValue": false
+                  }
+                },
+                "model": "mock-mock/models/banner-home-mock"
+              },
+              "contentfragment_1677200666": {
+                "title": "mock Digital",
+                "description": "",
+                ":type": "core/wcm/components/contentfragment/v1/contentfragment",
+                "elementsOrder": [
+                  "linhaFina",
+                  "titulo",
+                  "descricao",
+                  "corText",
+                  "cta",
+                  "ctaLink",
+                  "corCTA",
+                  "corTXTCTA",
+                  "imgDesktop",
+                  "imgMobile"
+                ],
+                ":items": {},
+                ":itemsOrder": [],
+                "elements": {
+                  "linhaFina": {
+                    "title": "Linha Fina",
+                    "dataType": "string",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "titulo": {
+                    "title": "Título",
+                    "dataType": "string",
+                    "value": "Aproveite todos os benefícios do mock Digital.",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "descricao": {
+                    "title": "Descricao",
+                    "dataType": "string",
+                    "value": "Ganhe mais agilidade e segurança para realizar as transações eletrônicas da sua empresa.",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "corText": {
+                    "title": "Cor do Texto",
+                    "dataType": "string",
+                    "value": "rosa",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "cta": {
+                    "title": "CTA",
+                    "dataType": "string",
+                    "value": "Compre agora",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "ctaLink": {
+                    "title": "CTA LINK",
+                    "dataType": "string",
+                    "value": "https://mock.mockdigital.com.br/?idcmp=:c15:m01:mockmock:bannerDestaque::&utm_medium=parc&utm_source=mockmock&utm_campaign=bannerDestaque",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "corCTA": {
+                    "title": "Cor do CTA",
+                    "dataType": "string",
+                    "value": "azul",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "corTXTCTA": {
+                    "title": "Cor Texto do CTA",
+                    "dataType": "string",
+                    "value": "branco",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "imgDesktop": {
+                    "title": "Imagem Desktop",
+                    "dataType": "string",
+                    "value": "/content/dam/mock-images/banner-home-mock/_banner_hero_mock_mock_DIGITAL.jpg",
+                    ":type": "string",
+                    "multiValue": false
+                  },
+                  "imgMobile": {
+                    "title": "Imagem Mobile",
+                    "dataType": "string",
+                    "value": "/content/dam/mock-images/banner-home-mock/_banner_hero_mock_mock_DIGITAL__MOBILE.jpg",
+                    ":type": "string",
+                    "multiValue": false
+                  }
+                },
+                "model": "mock-mock/models/banner-home-mock"
+              }
+            },
+            ":itemsOrder": [
+              "contentfragment_639849901",
+              "contentfragment",
+              "contentfragment_1677200666"
+            ],
+            ":type": "wcm/foundation/components/responsivegrid"
+          }
+        },
+        ":itemsOrder": ["responsivegrid"],
+        ":type": "wcm/foundation/components/responsivegrid"
+      }
+    },
+    ":itemsOrder": ["root"],
+    ":type": "mock-mock/components/structure/page"
+  }
+}
