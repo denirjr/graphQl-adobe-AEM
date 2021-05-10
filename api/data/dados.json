@@ -532,7 +532,7 @@
                   "ctaLink": {
                     "title": "CTA LINK",
                     "dataType": "string",
-                    "value": "https://mock.mockexperian.com.br/ajudamock",
+                    "value": "https://mock.mock.com.br/ajudamock",
                     ":type": "string",
                     "multiValue": false
                   },

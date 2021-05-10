@@ -4,7 +4,7 @@
   "description": "Bff project to query adobe AEM assets",
   "main": "index.js",
   "scripts": {
-    "start:local": "nodemon -e js,json,graphql -r dotenv/config ./api/index.js",
+    "start:dev": "nodemon -e js,json,graphql -r dotenv/config ./api/index.js",
     "start": "node ./api/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:mock": "npx json-server --watch api/data/dados.json"

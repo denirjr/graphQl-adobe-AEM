@@ -6,7 +6,7 @@ class BannersApi extends RESTDataSource {
 
     constructor() {
         super();
-        this.baseURL = host;
+        this.baseURL = host || 'http://localhost:3000';
     }
 
     async getBanners() {
